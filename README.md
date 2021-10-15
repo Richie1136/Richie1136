@@ -5,9 +5,9 @@ Hello im Richard Hagenah, I began my journey to becoming a Full Stack Web Develo
 
 
 - 📫 How to reach me:
--[Linkedin Profile](https://www.linkedin.com/in/richardthagenah/)    
+[Linkedin Profile](https://www.linkedin.com/in/richardthagenah/)    
 
--[Twitter](https://twitter.com/hagenah_richie)
--[Email](richardthagenah@gmail.com)
-
+[Twitter](https://twitter.com/hagenah_richie)
+<!-- [Email](richardthagenah@gmail.com)
+ -->
 
