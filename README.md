@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Richie1136/Richie1136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Linkedin Profile](https://www.linkedin.com/in/richardthagenah/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 Hello im Richard Hagenah, I began my journey to becoming a Full Stack Web Developer about a year and a half ago when I was trying to figure out what I wanted to do with my life. I knew I liked computer and took a web development class back in high school, then I found Kenzie Academy which was a 12 month Full Stack Software Engineering Bootcamp
 
 I can be reached at 
